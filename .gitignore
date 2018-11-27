@@ -1,0 +1,10 @@
+#调试生成临时文件
+/.laya/chrome
+/.laya/pubset.json
+
+#编译生成的文件
+/bin/js
+/bin/code.js
+
+#发布的小程序代码
+/release
